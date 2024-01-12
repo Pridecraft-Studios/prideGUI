@@ -22,7 +22,7 @@ Currently, there is no support planned for PrideGUI just yet, but mod support ma
 
 ## Are there any deadlines?
 
-Yes. Before 2024, to have the first beta for PrideGUI to be publicaly available.
+Yes. Before 2025, to have the first beta for PrideGUI to be publicaly available.
 
 ## Where else is this avaliable?
 
