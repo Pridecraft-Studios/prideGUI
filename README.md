@@ -1,7 +1,7 @@
 <!-- Clyde had this so I'm adding it too -->
 # PrideGUI
 
-This, is PrideGUI. An official addon to [PridePack](https://github.com/Pridecraft-Studios/pridepack) that changes the Minecraft GUI to be LGBT Themed that comes in two versions, Light, and dark.
+This, is PrideGUI. An official addon to [PridePack](https://github.com/Pridecraft-Studios/pridepack) that changes the Minecraft GUI to be LGBT Themed that comes in a single, Dark version.
 
 Currently this is in a *developmental testing phase*, and as such, it cannot be downloaded, nor be used yet until all the first beta release is ready.
 
