@@ -1,7 +1,7 @@
 {
   "pack": {
     "pack_format": 32,
-    "supported_formats": [18, 32],
+    "supported_formats": [18, 99],
     "description": "prideGUI 18.1.0 | Pridecraft Studios"
   }
 }
