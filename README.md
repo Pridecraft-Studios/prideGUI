@@ -3,7 +3,7 @@
 
 This, is PrideGUI. An official addon to [PridePack](https://github.com/Pridecraft-Studios/pridepack) that changes the Minecraft GUI to be LGBT Themed that comes in a single, Dark version.
 
-The pack has been officially released with it's first version (18.0.0) since February 10th 2024, yet is still on development.
+The pack has been officially released with it's first version (18.0.0) since February 10th 2024, however, we're still working on adding new features, and newer version compatibility
 
 ## Who?
 
@@ -18,11 +18,17 @@ You can help us translate Pridepack right now on [Crowdin](https://crowdin.com/p
 You can also indirectly contribute by voting on polls on [the Discord](https://discord.pridecraft.gay), or [our Mastodon](https://tech.lgbt/@pridecraft)
 
 ## What mods are currently supported?
-With the initial version now released, Mod Compatibility is being worked on, and will, hopefully, come out sooner rather than later.
+As of 18.1.0, PrideGUI now supports the following mods :
+- Inventory Management
+- Inventory Profiles Next
+- Inventory Sorter
+- Iris
+- Mod Menu
+- and Xareo's Minimap
 
 ## Are there any deadlines?
 
-Yes. Before 2025, to have the first beta for PrideGUI with mod compatibility available.
+There are no real deadlines, but we're working for adding new features to PrideGUI, along with other things.
 
 ## Where else is this avaliable?
 
