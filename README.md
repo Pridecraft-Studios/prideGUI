@@ -1,37 +1,23 @@
-<!-- Clyde had this so I'm adding it too -->
 # PrideGUI
+This is an official addon to [PridePack](https://modrinth.com/project/pridepack) that changes the Minecraft GUI to have a dark theme, with LGBT details.
+It is available for many versions, starting from beta 1.7.3. You can get [PrideGUI Legacy here](https://modrinth.com/project/pridegui-legacy), which has versions of the back for all versions between b1.7.3 and 1.20.1.
 
-This, is PrideGUI. An official addon to [PridePack](https://github.com/Pridecraft-Studios/pridepack) that changes the Minecraft GUI to be LGBT Themed that comes in a single, Dark version.
+![PrideGUI Banner](https://cdn.modrinth.com/data/6mcKx2Pb/images/05250c177741152dca8e964ea47a3806d23d4432.png)
+## Donate
+You can support the developers of Pridecraft Studios by donating on Patreon
 
-The pack has been officially released with it's first version (18.0.0) since February 10th 2024, however, we're still working on adding new features, and newer version compatibility
+[![patreon](https://github.com/intergrav/devins-badges/blob/v3/assets/cozy/donate/patreon-plural_64h.png?raw=true)](https://donate.pridecraft.gay)
+## Who
 
-## Who?
+We are Pridecraft Studios, a collective of developers making LGBT content for Minecraft.
+We make Resource Packs and mods to add LGBT themed stuff to the game, while trying to not "overgay". The main difference of our stuff compared to other LGBT Minecraft packs is that we know how to keep the game from looking like someone vomited rainbows all over the place.
+## Other Downloads
 
-We are [Pridecraft Studios](https://pridecraft.gay), A team that makes LGBT content for Minecraft. We're working on [PridePack](https://git.pridecraft.gay/PridePack), [PrideMod](https://git.pridecraft.gay/PrideMod), and a few other [projects](https://github.com/orgs/Pridecraft-Studios/repositories).
-
-## How can I test new stuff out?
-
-Currently, the best way to test stuff out is to join [our Discord](https://discord.pridecraft.gay) or follow [our Mastodon](https://tech.lgbt/@pridecraft) or [our BlueSky](https://bsky.app/profile/pridecraft.gay) to see sneak-peaks of new features. 
-
-## How can I contribute?
-You can help us translate Pridepack right now on [Crowdin](https://crowdin.com/project/pridepack/settings) [![Crowdin](https://badges.crowdin.net/pridepack/localized.svg)](https://crowdin.com/project/pridepack).
-You can also indirectly contribute by voting on polls on [the Discord](https://discord.pridecraft.gay), or [our Mastodon](https://tech.lgbt/@pridecraft)
-
-## What mods are currently supported?
-As of 18.1.0, PrideGUI now supports the following mods :
-- Inventory Management
-- Inventory Profiles Next
-- Inventory Sorter
-- Iris
-- Mod Menu
-- and Xareo's Minimap
-
-## Are there any deadlines?
-
-There are no real deadlines, but we're working for adding new features to PrideGUI, along with other things.
-
-## Where else is this avaliable?
-
-The pack is currently available for in [Modrinth](https://modrinth.com/resourcepack/pridegui).
-
-
+[![Download on Modrinth](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact-minimal/available/modrinth_46h.png)](https://modrinth.com/project/pridegui) [![Check out the GitHub](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact-minimal/available/github_46h.png)](https://git.pridecraft.gay/pridegui)
+## Socials
+[![Join our Discord](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact/social/discord-plural_46h.png)](https://discord.pridecraft.gay)
+[![Chat with us on Mastodon](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact/social/mastodon-plural_46h.png)](https://tech.lgbt/@pridecraft)
+[![Watch us on Youtube](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact/social/youtube-plural_46h.png)](https://youtube.com/@pridecraftstudios)
+[![Chat with us on Twitter](https://raw.githubusercontent.com/intergrav/devins-badges/v3/assets/compact/social/twitter-plural_46h.png)](https://x.com/pridecraftreal)
+[![Chat with us on Bluesky](https://badger-api-staging.worldwidepixel.ca/compact?gradientStart=00A5E4&gradientEnd=0076B1&lineOne=Chat%20with%20us%20on&lineTwo=Bluesky&colourOne=FFFFFF&colourTwo=FFFFFF&iconUrl=https://raw.githubusercontent.com/OzzyCzech/bluesky-icon/main/dist/bluesky-icon.white.png)](https://bsky.app/profile/pridecraft.gay)
+[![Chat with us on Threads](https://badger-api-staging.worldwidepixel.ca/compact?gradientStart=1B1B1B&gradientEnd=000000&lineOne=Chat%20with%20us%20on&lineTwo=Threads&colourOne=FFFFFF&colourTwo=FFFFFF&iconUrl=https://engineering.fb.com/wp-content/uploads/2024/01/threads-app-icon.png)](https://threads.net/@pridecraftstudios) [![Check out our Instagram](https://badger-api-staging.worldwidepixel.ca/compact?gradientStart=BA5353&gradientEnd=61003D&lineOne=Check%20out%20our&lineTwo=Instagram&colourOne=FFFFFF&colourTwo=FFF&iconUrl=https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/instagram-white-icon.png)](https://instagram.com/pridecraftstudios)
