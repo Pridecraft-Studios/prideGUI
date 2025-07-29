@@ -1,19 +1,17 @@
 {
   "pack": {
-    "pack_format": 32,
-    "supported_formats": [
-      18,
-      9999
-    ],
-    "description": "PrideGUI 3.0.0 | Pridecraft Studios"
+    "min_format": 18,
+    "max_format": 9999,
+    "pack_format": 18,
+    "supported_formats": [18, 9999],
+    "description": "PrideGUI 3.0.1\n§oBy Pridecraft Studios"
   },
   "overlays": {
     "entries": [
       {
-        "formats": [
-          46,
-          9999
-        ],
+        "min_format": 46,
+        "max_format": 9999,
+        "formats": [46, 9999],
         "directory": "46"
       }
     ]
