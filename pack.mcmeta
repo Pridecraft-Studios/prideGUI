@@ -24,7 +24,7 @@
 		"min_format": 69,
 		"max_format": 9999,
 		"formats": [69, 9999],
-		"directory": thedarnvillageruichange
+		"directory": "thedarnvillageruichange"
 	  }
     ]
   }
