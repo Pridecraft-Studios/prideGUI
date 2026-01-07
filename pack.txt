@@ -1,2 +1,2 @@
-&6PrideGUI Legacy: §fLight 3.0
-§rPridecraft Studios
+PrideGUI Legacy: Light 4.0.0
+By Pridecraft Studios"
