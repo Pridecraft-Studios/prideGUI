@@ -4,7 +4,7 @@
     "max_format": 9999,
     "pack_format": 18,
     "supported_formats": [18, 9999],
-    "description": "PrideGUI 3.0.1\n§oBy Pridecraft Studios"
+    "description": "PrideGUI 4.0.0\n§oBy Pridecraft Studios"
   },
   "overlays": {
     "entries": [
