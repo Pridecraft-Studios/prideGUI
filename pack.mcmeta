@@ -25,6 +25,12 @@
 		"max_format": 9999,
 		"formats": [69, 9999],
 		"directory": "thedarnvillageruichange"
+	  },
+	  {
+		"min_format": 87,
+		"max_format": 9999,
+		"formats": [87,9999],
+		"directory": "26.2-snap7+"
 	  }
     ]
   }
