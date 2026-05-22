@@ -30,7 +30,7 @@
 		"min_format": 87,
 		"max_format": 9999,
 		"formats": [87,9999],
-		"directory": "26.2-snap7+"
+		"directory": "262snap7"
 	  }
     ]
   }
