@@ -25,6 +25,42 @@
 		"max_format": 9999,
 		"formats": [69, 9999],
 		"directory": "thedarnvillageruichange"
+	  },
+	  {
+		"min_format": 87,
+		"max_format": 9999,
+		"formats": [87,9999],
+		"directory": "262snap7"
+	  },
+	  {
+                "directory": "darkui_compat_overlay",
+                "min_format": 84,
+                "max_format": 9999,
+				"formats": [84,9999]
+	  },
+	  {
+		"min_format": 34,
+		"max_format": 55,
+		"formats": [34,55],
+		"directory": "overlay_34_55"
+	  },
+	  {
+		"min_format": 63,
+		"max_format": 63,
+		"formats": [63,63],
+		"directory": "overlay_63"
+	  },
+	  {
+		"min_format": 32,
+		"max_format": 32,
+		"formats": [32, 32],
+		"directory": "overlay_32"
+	  },
+	  {
+		"min_format": 18,
+		"max_format": 33,
+		"formats": [18,33],
+		"directory": "overlay_18"
 	  }
     ]
   }
